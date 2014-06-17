@@ -1,0 +1,9 @@
+dist
+lib
+bin
+include
+man
+.Python
+*.pyc
+*.egg-INFO
+*.rst
