@@ -46,7 +46,7 @@ def cached_function(key):
 ```
 
 
-## ttl (24*60*60 sec by default)
+## ttl (24\*60\*60 sec by default)
 
 ```python
 @cache_it(prefix='PREFIX', ttl=60) # 60sec
